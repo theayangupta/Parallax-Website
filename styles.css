@@ -1,0 +1,62 @@
+.col {
+    color: #FFFFFF;
+    font-size: 50px;
+    text-shadow: 4px 4px #000000;
+    text-transform: uppercase;
+}
+
+.common-style {
+    background-color: #FFAA71;
+    line-height: 1.8;
+    margin: 0;
+    padding: 10px;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.first {
+    padding-bottom: 25%;
+    padding-top: 25%;
+    text-align: center;
+}
+
+h1, h2 {
+    font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+    text-align: center;
+}
+
+.img{
+    background-image: url('background.jpeg');
+}
+
+.img1 {
+    background-image: url('Great-Wall-of-China.jpeg');
+}
+
+.img2 {
+    background-image: url('Christ.jpeg');
+}
+
+.img3 {
+    background-image: url('Taj-Mahal.jpeg');
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.parallax {
+    margin: 0;
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
